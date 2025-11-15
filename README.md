@@ -1,0 +1,2 @@
+# Djangoo
+Django project
